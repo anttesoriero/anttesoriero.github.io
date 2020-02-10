@@ -14,6 +14,10 @@ Locations:
 - Old GitHub Site - [Git.AntTes.com/OldSite](http://git.anttes.com/OldSite)
 
 ## Updates
+### Issues ### 
+###### 10 February 2020
+Almost everything has merged over properly, with bascially no issues. I was able to switch the navigation bar from php to javascript, so now I can still just update one file to change the nav bar on all pages. The only issue I'm really having is CSS showing. For some reason, I cannot get the site to show any CSS. Online, some people are syaing css and images can't be in folders, but my images folder works just fine, and same with other css files. The only one not working is my main.css. Hopefully I can fix this issue soon, and then I can cancel my GoDaddy hosting. 
+
 ### Big Changes ### 
 ###### 28 October 2019
 As of today, this site is undergoing a major overhaul on GitHub. 
