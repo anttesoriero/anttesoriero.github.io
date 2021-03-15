@@ -1,0 +1,275 @@
+inerco/* ===========================
+   ======= Header style ======== 
+   =========================== */
+
+.nav {
+	background-color: #efefef;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-family: 'Cousine', ;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 4px 4px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  font-family: 'Cousine', ;
+  display: inline;
+}
+
+.nav ul {
+	display: inline;
+}
+
+
+
+/* ===========================
+   ======= Jumbotron style ======== 
+   =========================== */
+
+.jumbotron {
+  background-image:url('http://goo.gl/04j7Nn');
+  background: #00a7bd;
+  /*background: #556b2f; Olive*/
+  height: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .aainer {
+  position: relative;
+  top:100px;
+  
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Cousine', ;
+  /* font-family: 'Shift', sans-serif; */
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+
+/* ===========================
+   ======= Body style ======== 
+   =========================== */
+
+.learn-more {
+  background-color: #e6e6e6;
+  
+}
+
+.learn-more h3 {
+  font-family: 'Cousine', ;
+  /* font-family: 'Shift', sans-serif; */
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.site-map {
+  background-color: #fff;
+  
+}
+
+.site-map h3 {
+  font-family: 'Cousine', ;
+  /* font-family: 'Shift', sans-serif; */
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.site-map a {
+  color: #00b0ff;
+}
+
+.donator-list {
+  background-color: #fff;
+  
+}
+
+.donator-list h3 {
+  font-family: 'Cousine', ;
+  /* font-family: 'Shift', sans-serif; */
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.donator-list a {
+  color: #00b0ff;
+}
+
+.donator-bot {
+  background-color: #f2f2f2;
+}
+
+.pimps-section {
+  background-color: #f2f2f2;
+  
+}
+
+.pimps-section h3 {
+  font-family: 'Cousine', ;
+  /* font-family: 'Shift', sans-serif; */
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.pimps-section a {
+  color: #00b2b3;
+}
+
+.neighborgood-guides {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.neighborhood-guides h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.soon li {
+	display: inline;
+}
+
+/* ===================================
+   ======= Contact Page style ======== 
+   =================================== */
+
+.contact {
+    background-color: #ffffff;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.contact h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.contact p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+/* ===================================
+   ======= Contact Page style ======== 
+   =================================== */
+
+.pimp-bar {
+    position: fixed;
+    z-index: 1000000; 
+    bottom: 0; 
+    left: 0;
+    width: 100%;
+}
+
+/* ===========================
+   ======= Footer style ======== 
+   =========================== */
+
+.footer {
+	background-color: #e6e6e6;
+	bottom: 0;
+}
+
+.footer-info {
+	background-color: #e6e6e6;
+}
+
+.footer-info a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  /* padding: 14px 10px; */
+  padding: 1rem;
+  text-transform: uppercase;
+}
+
+.footer-info li {
+  display: inline;
+}
+
+.footer-info .pull-left {
+	margin-bottom: 0px;
+}
+
+
+
+
+
+
+.nn {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #00a7bd;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #00a7bd;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
