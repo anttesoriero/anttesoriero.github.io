@@ -10,8 +10,10 @@ If you would like to host your own website on GitHub, you can find out how to do
 
 Locations: 
 - Main Site - [AntTes.com](http://anttes.com)
+- Old Main Site - [Old.AntTes.com](http://old.anttes.com)
 - GitHub Site - [Git.AntTes.com](http://git.anttes.com)
-- Old GitHub Site - [Git.AntTes.com/OldSite](http://git.anttes.com/OldSite)
+- Old GitHub Site - [Git.AntTes.com/OldGitSite](http://git.anttes.com/OldGitSite)
+- Older GitHub Site - [Git.AntTes.com/OldGitSite/OldSite](http://git.anttes.com/OldGitSite/OldSite)
 
 ## Updates
 ### Issues ### 
@@ -24,6 +26,12 @@ As of today, this site is undergoing a major overhaul on GitHub.
 The old GitHub site looked like [this](https://git.anttes.com/OldSite/).
 The change is going to make the site look more like my [main site](http://anttes.com), currently using php.
 I will be testing a full html version [here](http://anttes.com/GitSite).
+
+### Bigger Changes ### 
+###### 14 March 2021
+Earlier this year, the main site at [AntTes.com](http://anttes.com) was changed to be made using ReactJS. As of today, the GitHub hosted site will now also be changed to be up to date with that version. Right now, the main site is hosted on GoDaddy with CPanel. However, now that the site is using React, it might be able to be completely hosted using GitHub.
+
+There is a chance that the main site will be more up to date than this one, so you can find that code in the [AntTesReact](https://github.com/anttesoriero/AntTesReact) repository.
 
 ## Authors
 This site is created and run by Anthony Tesoriero, B.S. Computer Science at Rowan University
