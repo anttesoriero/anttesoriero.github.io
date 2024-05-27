@@ -2,11 +2,12 @@
 
 This is my personal website that I am testing on GitHub servers. 
 Previously, I used CPanel hosting with Godaddy, since it has php support. 
-I've decided to try to switch over to GitHub though, since it's free! I am currently a Computer Science student at Rowan University, 
-and I feel it is important for all students to have a personal website. 
+I've decided to try to switch over to GitHub though, since it's free!
 
 If you would like to host your own website on GitHub, you can find out how to do so 
 [here](https://gist.github.com/TylerFisher/6127328), or by looking it up online.
+
+#### [Website React Project Code](https://github.com/anttesoriero/AntTesReact)
 
 Locations: 
 - Main Site - [AntTes.com](http://anttes.com)
